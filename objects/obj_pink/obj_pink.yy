@@ -6,10 +6,13 @@
   "name":"obj_pink",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Keys",
+    "path":"folders/Objects/Keys.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_operator",
+    "path":"objects/obj_operator/obj_operator.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
