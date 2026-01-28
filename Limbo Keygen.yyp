@@ -1,5 +1,5 @@
 {
-  "$GMProject":"",
+  "$GMProject":"v1",
   "%Name":"Limbo Keygen",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
@@ -26,15 +26,24 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
+  "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.13.1.193",
   },
   "name":"Limbo Keygen",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_blue","path":"sprites/spr_blue/spr_blue.yy",},},
+    {"id":{"name":"spr_cyan","path":"sprites/spr_cyan/spr_cyan.yy",},},
+    {"id":{"name":"spr_green","path":"sprites/spr_green/spr_green.yy",},},
+    {"id":{"name":"spr_orange","path":"sprites/spr_orange/spr_orange.yy",},},
+    {"id":{"name":"spr_pink","path":"sprites/spr_pink/spr_pink.yy",},},
+    {"id":{"name":"spr_purple","path":"sprites/spr_purple/spr_purple.yy",},},
+    {"id":{"name":"spr_red","path":"sprites/spr_red/spr_red.yy",},},
+    {"id":{"name":"spr_yellow","path":"sprites/spr_yellow/spr_yellow.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
