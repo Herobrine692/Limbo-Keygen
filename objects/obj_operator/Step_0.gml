@@ -5,3 +5,4 @@ if image_alpha = 1{
 }else{
 	image_alpha = 1
 }
+image_angle = irandom(2)*180
